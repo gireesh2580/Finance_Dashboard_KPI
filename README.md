@@ -76,7 +76,7 @@ This **Performance Dashboard** provides a detailed view of total sales performan
 
 ## 📫 Contact
 
-For feedback, queries, or collaboration, feel free to [reach out via LinkedIn](#) or create an issue.
+For feedback, queries, or collaboration, feel free to [reach out via LinkedIn](https://www.linkedin.com/in/gireeshshewale) or create an issue.
 
 ---
 
