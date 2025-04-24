@@ -1,8 +1,8 @@
 # 📊 Performance Dashboard | Power BI
 
-![Performance Dashboard](./path-to-your-image.png)
-
 Interactive Dashboard = [Link](https://app.powerbi.com/view?r=eyJrIjoiNDhmZjg0ZmItZmYwNy00YjllLTk2MTgtMzZjNDhmZWViZjk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+![Performance Dashboard](https://github.com/gireesh2580/Finance_Dashboard_KPI/blob/main/Finance%20KPI%20Dashboard.png)
 
 ## 🔍 Overview
 
